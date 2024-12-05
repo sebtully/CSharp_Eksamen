@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC App", "MVC App\MVC App.csproj", "{F6A46C79-FE6D-4844-9BCE-60520062132A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp", "MauiApp\MauiApp.csproj", "{0B88C49E-0CFA-43E3-B83E-0909233C2C1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{F6A46C79-FE6D-4844-9BCE-60520062132A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6A46C79-FE6D-4844-9BCE-60520062132A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6A46C79-FE6D-4844-9BCE-60520062132A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B88C49E-0CFA-43E3-B83E-0909233C2C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B88C49E-0CFA-43E3-B83E-0909233C2C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B88C49E-0CFA-43E3-B83E-0909233C2C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B88C49E-0CFA-43E3-B83E-0909233C2C1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
