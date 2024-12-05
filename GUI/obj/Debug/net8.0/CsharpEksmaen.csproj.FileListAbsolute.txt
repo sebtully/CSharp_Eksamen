@@ -1,0 +1,14 @@
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\bin\Debug\net8.0\CsharpEksmaen.exe
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\bin\Debug\net8.0\CsharpEksmaen.deps.json
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\bin\Debug\net8.0\CsharpEksmaen.runtimeconfig.json
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\bin\Debug\net8.0\CsharpEksmaen.dll
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\bin\Debug\net8.0\CsharpEksmaen.pdb
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\obj\Debug\net8.0\CsharpEksmaen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\obj\Debug\net8.0\CsharpEksmaen.AssemblyInfoInputs.cache
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\obj\Debug\net8.0\CsharpEksmaen.AssemblyInfo.cs
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\obj\Debug\net8.0\CsharpEksmaen.csproj.CoreCompileInputs.cache
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\obj\Debug\net8.0\CsharpEksmaen.dll
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\obj\Debug\net8.0\refint\CsharpEksmaen.dll
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\obj\Debug\net8.0\CsharpEksmaen.pdb
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\obj\Debug\net8.0\CsharpEksmaen.genruntimeconfig.cache
+C:\Users\abukarmoallin\RiderProjects\CsharpEksmaen\CsharpEksmaen\obj\Debug\net8.0\ref\CsharpEksmaen.dll

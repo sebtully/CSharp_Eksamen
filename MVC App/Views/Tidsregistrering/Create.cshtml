@@ -1,0 +1,56 @@
+@model DTO.Model.Tidsregistrering
+
+@{
+    ViewData["Title"] = "Tilføj Tidsregistrering";
+}
+
+<h2 class="centered-heading">Tilføj Tidsregistrering</h2>
+
+<form asp-action="Create" method="post" class="centered-form">
+    <div class="form-group">
+        <a asp-action="AddSag" class="btn btn-secondary">Opret ny sag</a>
+    </div>
+    <div class="form-group">
+        <label asp-for="SagId" class="control-label">Vælg Sag</label>
+        <select asp-for="SagId" class="form-control" asp-items="ViewBag.Sager"></select>
+        <span asp-validation-for="SagId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MedarbejderId" class="control-label">Vælg Medarbejder</label>
+        <select asp-for="MedarbejderId" class="form-control" asp-items="ViewBag.Medarbejdere"></select>
+        <span asp-validation-for="MedarbejderId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="StartTid" class="control-label"></label>
+        <input asp-for="StartTid" class="form-control"/>
+        <span asp-validation-for="StartTid" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SlutTid" class="control-label"></label>
+        <input asp-for="SlutTid" class="form-control"/>
+        <span asp-validation-for="SlutTid" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AfdelingId" class="control-label">Vælg Afdeling</label>
+        <select asp-for="AfdelingId" class="form-control" asp-items="ViewBag.Afdelinger"></select>
+        <span asp-validation-for="AfdelingId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Tilføj" class="btn btn-primary"/>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Tilbage til liste</a>
+</div>
+
+<style>
+    .centered-form {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .centered-heading {
+        text-align: center;
+    }
+</style>

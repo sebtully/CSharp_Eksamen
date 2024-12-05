@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC_App
+build_property.RootNamespace = MVC_App
+build_property.ProjectDir = /Users/Sebastian/Desktop/4.SEM/C#&.Net/Eksamen/C#-Eksamen/MVC App/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/Sebastian/Desktop/4.SEM/C#&.Net/Eksamen/C#-Eksamen/MVC App
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Tidsregistrering/AddSag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlkc3JlZ2lzdHJlcmluZy9BZGRTYWcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Tidsregistrering/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlkc3JlZ2lzdHJlcmluZy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Tidsregistrering/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlkc3JlZ2lzdHJlcmluZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1g08uk1hbx

@@ -1,0 +1,31 @@
+@model IEnumerable<DTO.Model.Medarbejder>
+
+@{
+    ViewData["Title"] = "Medarbejder Tidsregistrering";
+}
+
+<h2>Medarbejder Tidsregistrering</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Initial</th>
+            <th>Navn</th>
+            <th>CPR</th>
+            <th>Afdeling</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var medarbejder in Model)
+        {
+            <tr>
+                <td>@medarbejder.Initial</td>
+                <td>@medarbejder.Navn</td>
+                <td>@medarbejder.Cpr</td>
+                <td>@medarbejder.AfdelingId</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Tilføj Tidsregistrering</a>
