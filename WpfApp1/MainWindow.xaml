@@ -29,6 +29,7 @@
                         <TextBox x:Name="InitialTextBox" Width="100" Margin="5" Text="Initial" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
                         <TextBox x:Name="NavnTextBox" Width="100" Margin="5" Text="Navn" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
                         <TextBox x:Name="CprTextBox" Width="100" Margin="5" Text="Cpr" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+                        <ComboBox x:Name="AfdelingComboBox" DisplayMemberPath="Navn" SelectedValuePath="AfdelingId" Width="200" Margin="5"/>
                         <Button Content="Tilføj Medarbejder" Style="{StaticResource DefaultButtonStyle}" Click="AddMedarbejder_Click" Margin="5"/>
                         <Button Content="Slet Medarbejder" Style="{StaticResource DefaultButtonStyle}" Click="DeleteMedarbejder_Click" Margin="5"/>
                         <Button Content="Tilføj til afdeling" Style="{StaticResource DefaultButtonStyle}" Click="AddMedarbejderToAfdeling_Click" Margin="5"/>
@@ -37,7 +38,6 @@
                     <DataGrid x:Name="AfdelingDataGrid" AutoGenerateColumns="True" Height="200" Margin="5" Grid.Row="3"/>
 
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Grid.Row="4">
-                        <ComboBox x:Name="AfdelingComboBox" DisplayMemberPath="Navn" SelectedValuePath="AfdelingId" Width="200" Margin="5"/>
                         <TextBox x:Name="NummerTextBox" Width="100" Margin="5" Text="Nummer"/>
                         <Button Content="Tilføj Afdeling" Style="{StaticResource DefaultButtonStyle}" Click="AddAfdeling_Click" Margin="5"/>
                         <Button Content="Slet Afdeling" Style="{StaticResource DefaultButtonStyle}" Click="DeleteAfdeling_Click" Margin="5"/>

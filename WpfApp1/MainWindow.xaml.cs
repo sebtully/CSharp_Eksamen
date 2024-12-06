@@ -136,7 +136,6 @@ namespace WpfApp
 
         private void AddMedarbejder_Click(object sender, RoutedEventArgs e)
         {
-            // Ensure that a valid AfdelingId is selected
             if (AfdelingComboBox.SelectedValue == null)
             {
                 MessageBox.Show("Please select a valid department.");
@@ -145,19 +144,24 @@ namespace WpfApp
 
             int selectedAfdelingId = (int)AfdelingComboBox.SelectedValue;
 
-            // Create a new employee object
+            // Check if the selected department exists
+            var department = _tidsregistreringBLL.GetAfdelinger(selectedAfdelingId);
+            if (department == null)
+            {
+                MessageBox.Show("The selected department does not exist.");
+                return;
+            }
+
             var newMedarbejder = new Medarbejder
             {
                 Initial = InitialTextBox.Text,
                 Navn = NavnTextBox.Text,
                 Cpr = CprTextBox.Text,
-                AfdelingId = selectedAfdelingId // Set the valid AfdelingId
+                AfdelingId = selectedAfdelingId
             };
 
-            // Add the new employee to the database
             _tidsregistreringBLL.AddMedarbejder(newMedarbejder);
 
-            // Refresh the DataGrid
             LoadMedarbejder();
             LoadMedarbejderComboBox();
         }
