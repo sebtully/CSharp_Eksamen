@@ -9,14 +9,14 @@ internal class SagMapper
 {
     public static DTO.Model.Sag Map(Sag sag)
     {
-        return new DTO.Model.Sag(sag.SagId, sag.SagsNr, sag.Overskrift, sag.Beskrivelse);
+        return new DTO.Model.Sag(sag.SagId, sag.SagNr,sag.Overskrift, sag.Beskrivelse);
     }
     
     public static Sag Map(DTO.Model.Sag dtoSag)
     {
         return new Sag
         {
-            SagsNr = dtoSag.SagsNr,
+            SagNr = dtoSag.SagNr,    
             Overskrift = dtoSag.Overskrift,
             Beskrivelse = dtoSag.Beskrivelse,
             AfdelingId = dtoSag.AfdelingId

@@ -21,7 +21,8 @@ internal class TidsregistreringContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer("Server=localhost,1433; Database=C#-Eksamen; User=sa; Password=reallyStrongPwd123; TrustServerCertificate=True; MultipleActiveResultSets=True");
+        optionsBuilder.UseSqlServer("Server=SEBASTIAN\\SQLEXPRESS; Database=Tidsregistrering; Integrated Security=True; TrustServerCertificate=True; MultipleActiveResultSets=True");
+        optionsBuilder.LogTo(message => Debug.WriteLine(message));
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

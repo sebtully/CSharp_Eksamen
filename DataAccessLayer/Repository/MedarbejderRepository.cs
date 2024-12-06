@@ -50,4 +50,14 @@ public class MedarbejderRepository
             context.SaveChanges();
         }
     }
+
+    public static void DeleteMedarbejder(int id)
+    {
+        using (TidsregistreringContext context = new TidsregistreringContext())
+        {
+            Model.Medarbejder medarbejder = context.Medarbejder.Find(id);
+            context.Medarbejder.Remove(medarbejder);
+            context.SaveChanges();
+        }
+    }
 }

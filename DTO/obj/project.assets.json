@@ -8,26 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/Sebastian/.nuget/packages/": {}
+    "C:\\Users\\sebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Sebastian/Desktop/4.SEM/C#&.Net/Eksamen/C#-Eksamen/DTO/DTO.csproj",
+      "projectUniqueName": "C:\\Users\\sebas\\Desktop\\CSharp_Eksamen\\DTO\\DTO.csproj",
       "projectName": "DTO",
-      "projectPath": "/Users/Sebastian/Desktop/4.SEM/C#&.Net/Eksamen/C#-Eksamen/DTO/DTO.csproj",
-      "packagesPath": "/Users/Sebastian/.nuget/packages/",
-      "outputPath": "/Users/Sebastian/Desktop/4.SEM/C#&.Net/Eksamen/C#-Eksamen/DTO/obj/",
+      "projectPath": "C:\\Users\\sebas\\Desktop\\CSharp_Eksamen\\DTO\\DTO.csproj",
+      "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sebas\\Desktop\\CSharp_Eksamen\\DTO\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "/Users/Sebastian/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/Users/Sebastian/.dotnet/library-packs": {},
+        "C:\\Users\\sebas\\.dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -44,7 +44,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       }
     },
     "frameworks": {
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/Sebastian/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\sebas\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

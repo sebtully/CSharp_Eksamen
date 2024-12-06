@@ -2,10 +2,10 @@ namespace DataAccessLayer.Model;
 
 internal class Sag
 {
-    public Sag(int sagId, int sagsNr, string overskrift, string beskrivelse, int afdelingId)
+    public Sag(int sagId, int sagNr, string overskrift, string beskrivelse, int afdelingId)
     {
         SagId = sagId;
-        SagsNr = sagsNr;
+        SagNr = sagNr;
         Overskrift = overskrift;
         Beskrivelse = beskrivelse;
         AfdelingId = afdelingId;
@@ -16,7 +16,7 @@ internal class Sag
     }
 
     public int SagId { get; set; }
-    public int SagsNr { get; set; }
+    public int SagNr { get; set; }
     public String Overskrift { get; set; }
     public String Beskrivelse { get; set; }
 

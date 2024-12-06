@@ -7,6 +7,11 @@ internal class MedarbejderMapper
 {
     public static DTO.Model.Medarbejder Map(Medarbejder medarbejder)
     {
+        if (medarbejder == null)
+        {
+            throw new ArgumentNullException(nameof(medarbejder), "Medarbejder cannot be null");
+        }
+        
         return new DTO.Model.Medarbejder(medarbejder.MedarbejderId, medarbejder.Initial, medarbejder.Navn, medarbejder.Cpr);
     }
 
@@ -19,6 +24,13 @@ internal class MedarbejderMapper
             Navn = dtoMedarbejder.Navn,
             Cpr = dtoMedarbejder.Cpr
         };
+    }
+    
+    internal static void Update(DTO.Model.Medarbejder dtoMedarbejder, Medarbejder dataMedarbejder)
+    {
+        dataMedarbejder.Initial = dtoMedarbejder.Initial;
+        dataMedarbejder.Navn = dtoMedarbejder.Navn;
+        dataMedarbejder.Cpr = dtoMedarbejder.Cpr;
     }
     
     internal static DTO.Model.AfdelingDetail AfdelingDetail(Afdeling afdeling)

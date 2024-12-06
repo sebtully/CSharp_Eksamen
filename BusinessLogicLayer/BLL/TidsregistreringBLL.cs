@@ -20,6 +20,11 @@ public class TidsregistreringBLL
     {
         return MedarbejderRepository.GetAllMedarbejder();
     }
+    
+    public void DeleteMedarbejder(int id)
+    {
+        MedarbejderRepository.DeleteMedarbejder(id);
+    }
 
     public void AddMedarbejderToAfdeling(int medarbejderId, int afdelingId)
     {

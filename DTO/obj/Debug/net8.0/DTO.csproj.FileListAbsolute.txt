@@ -23,3 +23,15 @@ C:/Users/abukarmoallin/RiderProjects/CsharpEksmaen/DTO/obj/Debug/net8.0/ref/DTO.
 /Users/Sebastian/Desktop/4.SEM/C#&.Net/Eksamen/CsharpEksmaen/DTO/obj/Debug/net8.0/refint/DTO.dll
 /Users/Sebastian/Desktop/4.SEM/C#&.Net/Eksamen/CsharpEksmaen/DTO/obj/Debug/net8.0/DTO.pdb
 /Users/Sebastian/Desktop/4.SEM/C#&.Net/Eksamen/CsharpEksmaen/DTO/obj/Debug/net8.0/ref/DTO.dll
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\sebas\Desktop\CSharp_Eksamen\DTO\obj\Debug\net8.0\ref\DTO.dll

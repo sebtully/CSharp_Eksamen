@@ -1,5 +1,3 @@
-
-
 namespace DTO.Model;
 
 public class AfdelingOverview

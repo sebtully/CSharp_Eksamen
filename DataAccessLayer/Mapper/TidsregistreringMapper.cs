@@ -31,6 +31,4 @@ internal class TidsregistreringMapper
         dataTidsregistrering.MedarbejderId = dtoTidsregistrering.MedarbejderId;
     }
     
-    
-    
 }

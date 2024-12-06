@@ -2,13 +2,12 @@ namespace DataAccessLayer.Model;
 
 internal class Medarbejder
 {
-    public Medarbejder(int medarbejderId, string initial, string navn, string cpr, int afdelingId)
+    public Medarbejder(int medarbejderId, string initial, string navn, string cpr)
     {
         MedarbejderId = medarbejderId;
         Initial = initial;
         Navn = navn;
         Cpr = cpr;
-        AfdelingId = afdelingId;
     }
 
     public Medarbejder()

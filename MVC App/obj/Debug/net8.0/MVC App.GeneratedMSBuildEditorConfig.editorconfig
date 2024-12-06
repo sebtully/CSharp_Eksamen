@@ -17,51 +17,53 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC_App
 build_property.RootNamespace = MVC_App
-build_property.ProjectDir = /Users/Sebastian/Desktop/4.SEM/C#&.Net/Eksamen/C#-Eksamen/MVC App/
+build_property.ProjectDir = C:\Users\sebas\Desktop\CSharp_Eksamen\MVC App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/Sebastian/Desktop/4.SEM/C#&.Net/Eksamen/C#-Eksamen/MVC App
+build_property.MSBuildProjectDirectory = C:\Users\sebas\Desktop\CSharp_Eksamen\MVC App
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/sebas/Desktop/CSharp_Eksamen/MVC App/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[C:/Users/sebas/Desktop/CSharp_Eksamen/MVC App/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/sebas/Desktop/CSharp_Eksamen/MVC App/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/sebas/Desktop/CSharp_Eksamen/MVC App/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Tidsregistrering/AddSag.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlkc3JlZ2lzdHJlcmluZy9BZGRTYWcuY3NodG1s
+[C:/Users/sebas/Desktop/CSharp_Eksamen/MVC App/Views/Tidsregistrering/AddSag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlkc3JlZ2lzdHJlcmluZ1xBZGRTYWcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Tidsregistrering/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlkc3JlZ2lzdHJlcmluZy9DcmVhdGUuY3NodG1s
+[C:/Users/sebas/Desktop/CSharp_Eksamen/MVC App/Views/Tidsregistrering/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlkc3JlZ2lzdHJlcmluZ1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Tidsregistrering/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlkc3JlZ2lzdHJlcmluZy9JbmRleC5jc2h0bWw=
+[C:/Users/sebas/Desktop/CSharp_Eksamen/MVC App/Views/Tidsregistrering/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlkc3JlZ2lzdHJlcmluZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/sebas/Desktop/CSharp_Eksamen/MVC App/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/sebas/Desktop/CSharp_Eksamen/MVC App/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Sebastian/Desktop/4.SEM/C\#&.Net/Eksamen/C\#-Eksamen/MVC App/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-1g08uk1hbx
+[C:/Users/sebas/Desktop/CSharp_Eksamen/MVC App/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-aqfg9uth7u
